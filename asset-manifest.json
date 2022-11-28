@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Blamishm/static/css/main.22811686.css",
+    "main.js": "/Blamishm/static/js/main.c4c9085a.js",
+    "static/js/787.0f6afba4.chunk.js": "/Blamishm/static/js/787.0f6afba4.chunk.js",
+    "index.html": "/Blamishm/index.html",
+    "main.22811686.css.map": "/Blamishm/static/css/main.22811686.css.map",
+    "main.c4c9085a.js.map": "/Blamishm/static/js/main.c4c9085a.js.map",
+    "787.0f6afba4.chunk.js.map": "/Blamishm/static/js/787.0f6afba4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22811686.css",
+    "static/js/main.c4c9085a.js"
+  ]
+}
